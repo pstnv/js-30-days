@@ -7,11 +7,11 @@
 <hr>
 <br>
 
-<h2> 1. Drum Kit</h2>
+<h2> 01. Drum Kit</h2>
 <a href="https://js30c-drum-kit.netlify.app/"> https://js30c-drum-kit.netlify.app </a>
 
 <div align="center">
-  <img src="https://github.com/pstnv/js30-drum-kit/blob/main/src/pics/bg/cw_6.png?raw=true">
+  <img src="01. drum kit/src/pics/bg/cw_drumkit.png">
 </div>
 <br>
 
@@ -25,11 +25,11 @@
 <hr>
 <br>
 
-<h2> 2. Clocks</h2>
+<h2> 02. Clocks</h2>
 <a href="https://js30-clocks.netlify.app/"> https://js30-clocks.netlify.app </a>
 
 <div align="center">
-  <img src="https://github.com/pstnv/js30-clocks/blob/main/src/cw_7.png?raw=true">
+  <img src="02. clocks/src/cw_clocks.png">
 </div>
 <br>
 
@@ -42,11 +42,11 @@
 <hr>
 <br>
 
-<h2> 3. Update CSS Variables with JS </h2>
+<h2> 03. Update CSS Variables with JS </h2>
 <a href="https://js30-update-variables.netlify.app/"> https://js30-update-variables.netlify.app </a>
 
 <div align="center">
-  <img src="https://github.com/pstnv/js30-update-variables/blob/main/src/cw_8.png?raw=true">
+  <img src="03. update CSS Variables with JS/src/cw_updateVariables.png">
 </div>
 <br>
 
@@ -62,7 +62,7 @@
 <hr>
 <br>
 
-<h2> 4. Array cardio - Day 1 </h2>
+<h2> 04. Array cardio - Day 1 </h2>
 
 <h2>Особенности</h2>
 <ul>
@@ -72,11 +72,11 @@
 <br>
 <hr>
 <br>
-<h2> 5. Flex Panels </h2>
+<h2> 05. Flex Panels </h2>
 <a href="https://js30-flex-panels.netlify.app/"> https://js30-flex-panels.netlify.app </a>
 
 <div align="center">
-  <img src="https://github.com/pstnv/js30-flex-panels/blob/main/src/bg/cw_9.png?raw=true">
+  <img src="05. flex panels/src/bg/cw_flexpanels.png">
 </div>
 <br>
 
