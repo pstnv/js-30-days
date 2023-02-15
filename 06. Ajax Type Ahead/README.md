@@ -2,7 +2,7 @@
 <a href="https://js30-ajax-type-ahead.netlify.app/"> https://js30-ajax-type-ahead.netlify.app </a>
 
 <div align="center">
-  <img src="https://github.com/pstnv/js-30-days/blob/main/06.%20Ajax%20Type%20Ahead/cw_ajax_type_ahead.png?raw=true">
+  <img src="src/cw_ajax_type_ahead.png">
 </div>
 <br>
 
