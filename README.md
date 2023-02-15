@@ -89,3 +89,20 @@
 <br>
 <hr>
 <br>
+<h2> 06. Ajax Type Ahead </h2>
+<a href="https://js30-ajax-type-ahead.netlify.app/"> https://js30-ajax-type-ahead.netlify.app </a>
+
+<div align="center">
+  <img src="https://github.com/pstnv/js-30-days/blob/main/06.%20Ajax%20Type%20Ahead/cw_ajax_type_ahead.png?raw=true">
+</div>
+<br>
+
+<h2>Особенности</h2>
+<ul>
+  <li> введите название города или штата - результатом будут выгружены все совпадения </li>
+  <li> сайт адаптирован под мобильные устройства </li>
+</ul>
+
+<br>
+<hr>
+<br>
